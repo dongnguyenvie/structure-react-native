@@ -1,0 +1,4 @@
+export const RESET_ALL_STATE = 'RESET_ALL_STATE';
+export const ROOT_CHANGED = 'ROOT_CHANGED';
+//DEVELOP MODE OR PRODUCTION 
+export const DEVELOP_FLAG = true;
